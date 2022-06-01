@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>test6060740</name>
+        <order/>
+        <script/>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>kamalkumar.raju@snc</sys_created_by>
+        <sys_created_on>2022-06-01 16:33:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fe6f058e87fb8d10c97d2f0f8bbb351b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test6060740</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test_CS6060740" source="x_rdsp2_test_cs606">0cfec54e87fb8d10c97d2f0f8bbb355d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test_CS6060740">0cfec54e87fb8d10c97d2f0f8bbb355d</sys_scope>
+        <sys_update_name>sys_script_client_fe6f058e87fb8d10c97d2f0f8bbb351b</sys_update_name>
+        <sys_updated_by>kamalkumar.raju@snc</sys_updated_by>
+        <sys_updated_on>2022-06-01 16:33:48</sys_updated_on>
+        <table/>
+        <type/>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
